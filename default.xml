@@ -8,4 +8,5 @@
   <project path="go/src/github.com/ckhungaa/misc" name="misc"/>
   <!--personal-->
   <project path="go/src/github.com/ckhungaa/m-user" name="m-user"/>
+  <project path="go/src/github.com/ckhungaa/m-proto" name="m-proto"/>
 </manifest>
