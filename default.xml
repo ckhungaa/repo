@@ -2,5 +2,8 @@
 <manifest>
   <remote  name="origin" fetch="ssh://git@github.com/ckhungaa/"/>
   <default revision="master" remote="origin"/>
+  <!-- repo config -->
   <project path="manifest/repo" name="repo"/>
+  <!--try-->
+  <project path="go/src/github.com/ckhungaa/misc" name="misc"/>
 </manifest>
