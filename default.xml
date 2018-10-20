@@ -4,6 +4,8 @@
   <default revision="master" remote="origin"/>
   <!-- repo config -->
   <project path="manifest/repo" name="repo"/>
-  <!--try-->
+  <!--misc project-->
   <project path="go/src/github.com/ckhungaa/misc" name="misc"/>
+  <!--personal-->
+  <project path="go/src/github.com/ckhungaa/m-user" name="m-user"/>
 </manifest>
