@@ -4,7 +4,7 @@
   <default revision="master" remote="origin"/>
   <!-- repo config -->
   <project path="manifest/repo" name="repo"/>
-  <project path="go/src/github.com/ckhungaa/m-common" name="m-common">
-  <project path="go/src/github.com/ckhungaa/m-proto" name="m-proto">
-  <project path="go/src/github.com/ckhungaa/m-user" name="m-user">
+  <project path="go/src/github.com/ckhungaa/m-common" name="m-common"/>
+  <project path="go/src/github.com/ckhungaa/m-proto" name="m-proto"/>
+  <project path="go/src/github.com/ckhungaa/m-user" name="m-user"/>
 </manifest>
