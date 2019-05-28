@@ -5,8 +5,6 @@
   <!-- repo config -->
   <project path="manifest/repo" name="repo"/>
   <project path="infra" name="infra"/>
-  <project path="go/src/github.com/ckhungaa/m-common" name="m-common"/>
-  <project path="go/src/github.com/ckhungaa/m-proto" name="m-proto"/>
-  <project path="go/src/github.com/ckhungaa/m-user" name="m-user"/>
+  <project path="go/src/github.com/ckhungaa/m-demo" name="m-demo" groups="local,dev" />
 
 </manifest>
