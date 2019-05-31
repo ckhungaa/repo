@@ -6,5 +6,5 @@
   <project path="manifest/repo" name="repo"/>
   <project path="infra" name="infra"/>
   <project path="go/src/github.com/ckhungaa/m-demo" name="m-demo" groups="local,dev" />
-
+  <project path="go/src/github.com/ckhungaa/git-repo" name="git-repo" groups="tool" />
 </manifest>
